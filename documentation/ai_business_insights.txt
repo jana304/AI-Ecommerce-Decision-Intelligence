@@ -1,0 +1,22 @@
+AI-ASSISTED BUSINESS INSIGHTS
+========================================
+
+Total Orders: 99,441
+Total Customers: 96,096
+Total Sales Value: 15,843,553.24
+Average Order Value: 160.58
+Repeat Customer Rate: 3.12%
+Top RFM Segment by Average Spend: Champions
+Average Delivery Time: 12.56 days
+Late Delivery Rate: 8.11%
+
+BUSINESS INSIGHTS
+========================================
+
+1. Customer retention is an important opportunity because the repeat customer rate is 3.12%.
+2. The average order value is 160.58, indicating meaningful value per order.
+3. The analysis contains 99,441 orders and 96,096 customers with total sales value of 15,843,553.24.
+4. Champions has the highest average customer spending among the RFM segments.
+5. RFM segmentation can support targeted campaigns for new, loyal, at-risk and lost customers.
+6. Delivery performance needs attention because 8.11% of delivered orders were late.
+7. Average delivery time is 12.56 days, highlighting an opportunity to improve logistics efficiency.
