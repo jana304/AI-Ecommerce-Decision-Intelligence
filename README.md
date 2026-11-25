@@ -179,6 +179,24 @@ AI-Ecommerce-Decision-Intelligence/
 └── .gitattributes
 ```
 
+## How to Run the Project
+
+1. Clone or download this repository.
+2. Download the Olist Brazilian E-Commerce dataset from the original source.
+3. Install Python, MySQL and Microsoft Power BI Desktop.
+4. Install the required Python libraries:
+
+   pip install pandas numpy
+
+5. Update the dataset paths in the Python scripts.
+6. Execute the data cleaning and exploratory analysis scripts.
+7. Configure the MySQL database and execute the SQL scripts.
+8. Open dashboard.pbix from the power bi folder.
+9. Configure the data source connections and refresh the dashboard.
+10. Run ai_business_insights.py to generate rule-based business insights.
+
+Note: Local file paths and database connection settings may require modification.
+
 ## Skills Demonstrated
 
 **Data Analysis | Data Cleaning | Exploratory Data Analysis | SQL | MySQL | Python | Pandas | NumPy | Power BI | DAX | Data Modeling | Customer Segmentation | RFM Analysis | Dashboard Development | Business Intelligence | Business Insights | Git | GitHub**
