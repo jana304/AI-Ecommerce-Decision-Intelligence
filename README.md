@@ -29,6 +29,18 @@ The project follows an end-to-end analytics workflow:
 - **Git & GitHub** – Version control
 - **Git LFS** – Power BI dashboard storage
 
+
+### Dataset Source
+
+Olist Brazilian E-Commerce Public Dataset
+
+Source:
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+The original dataset is provided by Olist.
+
+Users can download the dataset from the original source for reproducing the analysis, subject to its applicable license and usage terms.
+
 ## Dataset
 
 **Olist Brazilian E-Commerce Public Dataset**
